@@ -13,11 +13,11 @@ There are multiple genres to choose from before starting a game. Genres will fav
 
 ## How to run:
 1. Make sure to have GitBash installed on your machine
-2. Execute this follwing command: [git clone https://gitlab.com/mouda1/winter2025-sushigo.git] in GitBash
-3. Change your directory to the game directory (execute this command: [cd winter2025-sushigo])
+2. Execute this follwing command: `git clone https://gitlab.com/mouda1/winter2025-sushigo.git` in GitBash
+3. Change your directory to the game directory (execute this command: `cd winter2025-sushigo`)
 4. Make sure you have JDK installed (this game requires the *Java* compiler) - Here's a link to download the latest version of Java Developer's Kit: [Scroll down and look for the correct version of JDK for your device](https://www.oracle.com/ca-en/java/technologies/downloads/#jdk24-linux)
-5. Compile the entire application with the command: [javac *.java] - ***Still on GitBash***
-6. Run the compiled Main java class with the command: [java Main] - ***GitBash still >.<***
+5. Compile the entire application with the command: `javac *.java` - ***Still on GitBash***
+6. Run the compiled Main java class with the command: `java Main` - ***GitBash still >.<***
 ### 7. **Enjoy! <333**
 
 ![Intro screen](intro.png)
