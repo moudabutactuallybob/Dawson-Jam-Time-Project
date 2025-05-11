@@ -30,10 +30,10 @@ There are multiple genres to choose from before starting a game. Genres will fav
 
 ### **MACOS AND LINUX** (Cloning)
 1. Open a terminal window and execute one of the following commands:
-  a. If you are running a *DEBIAN* distro, run: `sudo apt install git-all`
-  b. Else if you are running an *RPM* distro, run: `sudo dnf install git-all`
-  c. Else find out how to get GIT binairies for your distribution [here](https://git-scm.com/download/linux.)
-  ***FOR MACOS: Download XCODE to get GIT binairies***
+* If you are running a *DEBIAN* distro, run: `sudo apt install git-all`
+* Else if you are running an *RPM* distro, run: `sudo dnf install git-all`
+* Else find out how to get GIT binairies for your distribution [here](https://git-scm.com/download/linux.)
+* ***FOR MACOS: Download XCODE to get GIT binairies***
 3. Clone this repo with: `git clone https://github.com/moudabutactuallybob/Dawson-Jam-Time-Project.git`
 4. cd into the source code folder: `cd Dawson-Jam-Time-Project/"Jam TIme Game"/src`
 5. Compile all the classes `javac *.java`
